@@ -8,6 +8,6 @@
 ### find me on <img alt="arrow" width="17px" src="https://github.com/MxKavt/images/blob/main/down-arrow.png" />
 
 
-[<img alt="telegram" width="53px" src="https://github.com/MxKavt/images/blob/main/telegram.png" />](https://t.me/noxmurphy)
+[<img alt="telegram" width="53px" src="https://github.com/MxKavt/images/blob/main/output-onlinepngtools%20(1).png" />](https://t.me/noxmurphy)
 [<img alt="discord" width="47px" src="https://github.com/MxKavt/images/blob/main/discord.png" />](https://discordapp.com/users/nox#6306)
-[<img alt="protonmail" width="45px" src="https://github.com/MxKavt/images/blob/main/protonsmallpp.png" />](mailto:m.kavtaradze@proton.me)
+[<img alt="protonmail" width="45px" src="https://github.com/MxKavt/images/blob/main/output-onlinepngtools.png" />](mailto:m.kavtaradze@proton.me)
