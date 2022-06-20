@@ -1,17 +1,13 @@
-![header](https://c.tenor.com/UQR0_nQfx28AAAAd/neon-cyberpunk-samurai.gif)
-### Hi there 👋
+![header](https://giffiles.alphacoders.com/215/215985.gif)
+### Hi, Mari here 👋
 
-<!--
-**MxKavt/MxKavt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 	🀄 rookie dev
+-   💡 just experimenting with this readme
+-   🏮 this took longer than i'd like to admit
 
-Here are some ideas to get you started:
+### find me on <img alt="arrow" width="17px" src="https://github.com/MxKavt/images/blob/main/down-arrow.png" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img alt="telegram" width="53px" src="https://github.com/MxKavt/images/blob/main/telegram.png" />](https://t.me/noxmurphy)
+[<img alt="discord" width="47px" src="https://github.com/MxKavt/images/blob/main/discord.png" />](https://discordapp.com/users/nox#6306)
+[<img alt="protonmail" width="45px" src="https://github.com/MxKavt/images/blob/main/protonsmallpp.png" />](mailto:m.kavtaradze@proton.me)
