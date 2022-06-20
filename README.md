@@ -3,7 +3,7 @@
 ### Hi, Mari here 👀
 
 - 	🦾 rookie dev
--   🀄 just experimenting with this readme
+-   🔬 just experimenting with this readme
 -   🧠 this took longer than I'd like to admit
 
 ### Find me on<img alt="arrow" width="35px" height="35px" src="https://github.com/MxKavt/images/blob/main/giphy-arrow-down-3color.gif" />
