@@ -6,7 +6,7 @@
 -   💡 just experimenting with this readme
 -   🏮 this took longer than i'd like to admit
 
-### find me on <img alt="arrow" width="5px" src="https://github.com/MxKavt/images/blob/main/giphy-arrow-down-3color.gif" />
+### find me on<img alt="arrow" width="35px" height="35px" src="https://github.com/MxKavt/images/blob/main/giphy-arrow-down-3color.gif" />
 
 
 [<img alt="telegram" width="53px" src="https://github.com/MxKavt/images/blob/main/icons8-telegram-app-64.png" />](https://t.me/noxmurphy)
